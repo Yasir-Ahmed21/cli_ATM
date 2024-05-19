@@ -1,10 +1,10 @@
 {
-  "name": "yasir_ahmed_atm",
+  "name": "yasir_ahmed_atm2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Improves performance",
   "main": "index.js",
   "type": "module",
-  "bin": "app.js",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
